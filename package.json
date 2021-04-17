@@ -25,7 +25,8 @@
     "image-webpack-loader": "^7.0.1",
     "webpack": "^5.33.2",
     "webpack-bundle-analyzer": "^4.4.1",
-    "webpack-cli": "^3.3.2"
+    "webpack-cli": "^3.3.2",
+    "webpack-pwa-manifest": "^4.3.0"
   },
   "dependencies": {
     "bootstrap": "^4.6.0",
